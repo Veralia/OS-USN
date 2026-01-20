@@ -15,6 +15,4 @@ In this repository you will find the codes for each week tutorial and assignment
 
 ## Getting Started
 
-1. Clone the repository
-2. Set up your development environment
-3. Complete labs in order
+1. Codes are under each week folder. 
