@@ -1,7 +1,6 @@
 # Process Management - Coding Assignment
 
 **Estimated Time:** 45 minutes  
-**Difficulty:** Intermediate  
 **Prerequisites:** Complete the Process Management Tutorial
 
 ## 📋 Assignment Overview
