@@ -9,8 +9,7 @@ You will build a **System Process Manager** - a console application that helps u
 
 ---
 
-## 🎯 Problem 1: Process Information Viewer (15 minutes)
-
+## 🎯 Problem 1: Process Information Viewer
 ### Description
 Create a program that displays detailed information about a specific process.
 
@@ -68,7 +67,7 @@ static void DisplayProcessInfo(string processName)
 
 ---
 
-## 🎯 Problem 2: Command Executor with Logging (15 minutes)
+## 🎯 Problem 2: Command Executor with Logging
 
 ### Description
 Create a utility that executes command-line commands and logs both their output and errors to a file.
@@ -129,7 +128,7 @@ static bool ExecuteAndLog(string command, string arguments, string logFilePath)
 
 ---
 
-## 🎯 Problem 3: Process Watchdog (15 minutes)
+## 🎯 Problem 3: Process Watchdog
 
 ### Description
 Create a process monitor that ensures a critical application stays running. If it crashes or is closed, the watchdog automatically restarts it.
