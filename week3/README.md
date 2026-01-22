@@ -288,6 +288,7 @@ int exitCode = process.ExitCode;
 
 - [Microsoft Docs: Process Class](https://docs.microsoft.com/en-us/dotnet/api/system.diagnostics.process)
 - [ProcessStartInfo Properties](https://docs.microsoft.com/en-us/dotnet/api/system.diagnostics.processstartinfo)
+- [Launch and Control Processes in C#.NET](https://medium.com/@jepozdemir/how-to-launch-and-control-processes-in-c-net-applications-4ae6565410d6)
 
 ## 🧪 Practice Exercises
 
