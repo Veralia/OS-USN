@@ -40,7 +40,6 @@ Process #1:
   Start Time: 1/20/2025 10:30:45 AM
   Memory Usage: 145.5 MB
   Priority: Normal
-  Threads: 42
   Responding: Yes
 
 Process #2:
@@ -49,7 +48,6 @@ Process #2:
   Start Time: 1/20/2025 10:31:12 AM
   Memory Usage: 98.3 MB
   Priority: Normal
-  Threads: 38
   Responding: Yes
 
 Total processes found: 2
@@ -195,7 +193,7 @@ static void WatchProcess(string executablePath, int checkIntervalSeconds, int ma
 
 ---
 
-## 🎯 Extra Problem: System Resource Monitor
+## 🎯 Extra: System Resource Monitor
 
 ### Description
 Create a real-time system monitor that displays CPU and memory usage of the top 5 most resource-intensive processes.
@@ -269,20 +267,9 @@ Test each problem with:
 
 ## 💡 Tips for Success
 
-1. **Start with Problem 1** - It's the most straightforward
-2. **Test frequently** - Run your code after each major addition
-3. **Read error messages** - They often tell you exactly what's wrong
-4. **Use the tutorial** - Reference the examples for similar patterns
-5. **Don't hardcode paths** - Use methods that work on any Windows system
-6. **Handle edge cases** - What if the process doesn't exist? What if you don't have permissions?
-
-## 🆘 Getting Help
-
-If you're stuck:
-1. Review the tutorial examples
-2. Check the Microsoft documentation for the Process class
-3. Use Console.WriteLine() to debug and see what values you're getting
-4. Ask your instructor 
+1. **Read error messages** - They often tell you exactly what's wrong
+2. **Use the tutorial** - Reference the examples for similar patterns
+3. **Don't hardcode paths** - Use methods that work on any Windows system
 
 ---
 
